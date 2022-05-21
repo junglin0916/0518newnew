@@ -2,6 +2,7 @@
 
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Development Environment Setup
+<img src="https://www.ronan.bzh/p/dynamic-charts-with-highcharts-sqlite-and-python/dynamic-charts-with-Highcharts-SQLite-Python_hu5e0addf2b3f28357bc3c2d644de75f1a_118894_1600x0_resize_linear_2.png">
 1. Please install vs code, register github, install git for windows
 2. (check-point 1) github create a new repository (aiot0518)
 3. go to vs code clone this repository  
